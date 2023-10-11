@@ -1,0 +1,27 @@
+{
+  "name": "Nguyen Khoi Tran",
+  "image": {
+    "src": "../images/author/harry.jpeg"
+  },
+  "socials": [
+    {
+      "id": 2,
+      "icon": "fab fa-linkedin",
+      "link": "https://au.linkedin.com/in/nktrandlt",
+      "title": "Linkedin"
+    },
+    {
+      "id": 2,
+      "icon": "fab fa-twitter",
+      "link": "https://twitter.com/nktrandlt",
+      "title": "Twitter"
+    },
+    {
+      "id": 3,
+      "icon": "fab fa-blog",
+      "link": "https://nk-tran.com",
+      "title": "Blog"
+    }
+  ],
+  "bio": "My name is Nguyen Khoi TRAN. I am a researcher at the School of Computer Science, of The University of Adelaide, Australia. I am a member CREST (The Centre for Research on Engineering Software Technologies) – a multidisciplinary research centre aimed at supporting and promoting citizens’ driven and software enabled innovation for smart and sustainable societies."
+}
