@@ -713,7 +713,20 @@
               "src": "../images/team/shagun.jpg"
             }
           ],
-          "socials": []
+          "socials": [
+            {
+              "id": 2,
+              "icon": "fab fa-twitter",
+              "link": "https://twitter.com/Shagun_05",
+              "title": "Twitter"
+            },
+            {
+              "id": 4,
+              "icon": "fab fa-linkedin",
+              "link": "https://www.linkedin.com/in/shagun-d-3276a11b3/",
+              "title": "Linkedin"
+            }
+          ]
         },
         {
           "id": 2,
