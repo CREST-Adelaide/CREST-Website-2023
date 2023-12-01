@@ -3,7 +3,73 @@
   "pageType": "resources",
   "content": [
     {
-      "id": 1,
+      "id": 20231016,
+      "year": "2023",
+      "images": [{ "src": "../images/guest-talk/guest-talk-unimelb-2023.jpeg" }],
+      "title": "Oct, 16th - Guest talk at University of Melbourne by Bach Le",
+      "hosts": [
+        {
+          "id": 1,
+          "name": "CREST",
+          "link": "http://crest-centre.net"
+        }
+      ],
+      "location": "SA, Australia",
+      "description": "We had an enlightening guest talk today, presented by Dr. Bach Le from University of Melbourne, where he shared his research on human-centered & data-driven. CREST members also engaged in discussions on common research interests, paving the way for potential collaboration.",
+      "socials": [
+        {
+          "id": 1,
+          "title": "twitter",
+          "link": "https://twitter.com/crest_uofa/status/1713832300159652204"
+        }
+      ]
+    },
+    {
+      "id": 20230704,
+      "year": "2023",
+      "images": [{ "src": "../images/phd-presentation/presentation-phd-phmousavi-2023.jpeg" }],
+      "title": "July, 4th - Our PhD student SZ Mousavi is presenting our review on detecting misuses of security APIs at CSCRC symposium",
+      "hosts": [
+        {
+          "id": 1,
+          "name": "Cyber Security Cooperative Research Centre",
+          "link": "https://twitter.com/CSCRCoz"
+        }
+      ],
+      "location": "SA, Australia",
+      "description": "Our PhD student SZ Mousavi is presenting our review on detecting misuses of security APIs at CSCRC symposium.",
+      "socials": [
+        {
+          "id": 1,
+          "title": "twitter",
+          "link": "https://twitter.com/crest_uofa/status/1676075976881758208"
+        }
+      ]
+    },
+    {
+      "id": 20230517,
+      "year": "2023",
+      "images": [{ "src": "../images/conference/CREST-at-ICSE2023.jpeg" }],
+      "title": "July, 4th - CREST team at ICSE2023",
+      "hosts": [
+        {
+          "id": 1,
+          "name": "ICSE2023",
+          "link": "https://twitter.com/hashtag/icse2023?src=hashtag_click"
+        }
+      ],
+      "location": "SA, Australia",
+      "description": "If you're interested in SoftwareSecurity, VulnerabilityAnalytics, DataQuality for SE, let's talk to us and explore potential collaboration opportunities.",
+      "socials": [
+        {
+          "id": 1,
+          "title": "twitter",
+          "link": "https://twitter.com/crest_uofa/status/1658714651696451585"
+        }
+      ]
+    },
+    {
+      "id": 4,
       "year": "2022",
       "images": [{ "src": "../images/workshops/workshop-image-01.jpg" }],
       "title": "May, 10th - CREST and SCS lab (Sydney) Workshop to share ideas and discuss potential collaboration",
@@ -26,16 +92,11 @@
           "id": 2,
           "title": "linkedin",
           "link": "http://linkedin.com"
-        },
-        {
-          "id": 3,
-          "title": "youtube",
-          "link": "https://www.youtube.com/watch?v=BX4o_G76xEc"
         }
       ]
     },
     {
-      "id": 2,
+      "id": 3,
       "year": "2022",
       "images": [{ "src": "../images/workshops/workshop-image-04.jpg" }],
       "location": "SA, Australia",
@@ -43,7 +104,7 @@
       "description": "Workshop description..."
     },
     {
-      "id": 3,
+      "id": 2,
       "year": "2022",
       "images": [{ "src": "../images/workshops/workshop-image-03.jpg" }],
       "location": "SA, Australia",
@@ -51,7 +112,7 @@
       "description": "Workshop description..."
     },
     {
-      "id": 4,
+      "id": 1,
       "year": "2022",
       "images": [],
       "hosts": [
