@@ -382,42 +382,6 @@
               "title": "GitHub"
             }
           ]
-        },
-        {
-          "id": 13,
-          "name": "Boyu Zhang",
-          "designation": "Post Doc",
-          "images": [
-            {
-              "src": "../images/team/boyu.jpg"
-            }
-          ],
-          "socials": [
-            {
-              "id": 4,
-              "icon": "fab si-googlescholar",
-              "link": "https://scholar.google.com/citations?&user=bpdpe1cAAAAJ&view_op=list_works&sortby=pubdate",
-              "title": "Google Scholar"
-            },
-            {
-              "id": 4,
-              "icon": "fab fa-linkedin",
-              "link": "https://www.linkedin.com/in/boyu-zhang-75094a60/",
-              "title": "Linkedin"
-            },
-            {
-              "id": 3,
-              "icon": "fab fa-dribbble",
-              "link": "https://abalon1210.github.io/",
-              "title": "Personal Website"
-            },
-            {
-              "id": 3,
-              "icon": "fab fa-github",
-              "link": "https://github.com/boyuZh",
-              "title": "GitHub"
-            }
-          ]
         }
       ]
     },
@@ -428,30 +392,7 @@
         "title": "<span>PhD Student</span>"
       },
       "items": [
-        {
-          "id": 1,
-          "name": "Bushra Sabir",
-          "designation": "PhD",
-          "images": [
-            {
-              "src": "../images/team/busra.jpg"
-            }
-          ],
-          "socials": [
-            {
-              "id": 2,
-              "icon": "fab fa-twitter",
-              "link": "https://twitter.com/bushra_sabir",
-              "title": "Twitter"
-            },
-            {
-              "id": 4,
-              "icon": "fab si-googlescholar",
-              "link": "https://scholar.google.com/citations?user=FeX-_H8AAAAJ&hl=en",
-              "title": "Google Scholar"
-            }
-          ]
-        },
+        
         {
           "id": 2,
           "name": "Yasir Abdullah J Althobaiti",
@@ -463,36 +404,7 @@
           ],
           "socials": []
         },
-        {
-          "id": 3,
-          "name": "Nesara Dissanayake",
-          "designation": "PhD",
-          "images": [
-            {
-              "src": "../images/team/nesara.png"
-            }
-          ],
-          "socials": [
-            {
-              "id": 2,
-              "icon": "fab fa-twitter",
-              "link": "https://twitter.com/nesara_d?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
-              "title": "Twitter"
-            },
-            {
-              "id": 4,
-              "icon": "fab si-googlescholar",
-              "link": "https://scholar.google.com.au/citations?user=Vb1zvAQAAAAJ&hl=en",
-              "title": "Google Scholar"
-            },
-            {
-              "id": 4,
-              "icon": "fab fa-linkedin",
-              "link": "https://www.linkedin.com/in/nesaradissanayake",
-              "title": "Linkedin"
-            }
-          ]
-        },
+        
         {
           "id": 4,
           "name": "Orvila Sarker",
@@ -523,48 +435,7 @@
             }
           ]
         },
-        {
-          "id": 5,
-          "name": "Roland Croft",
-          "designation": "PhD",
-          "images": [
-            {
-              "src": "../images/team/roland.jpg"
-            }
-          ],
-          "socials": [
-            {
-              "id": 2,
-              "icon": "fab fa-twitter",
-              "link": "https://twitter.com/CroftRoland",
-              "title": "Twitter"
-            },
-            {
-              "id": 4,
-              "icon": "fab si-googlescholar",
-              "link": "https://scholar.google.com/citations?user=R6gmQDcAAAAJ&hl=en",
-              "title": "Google Scholar"
-            },
-            {
-              "id": 4,
-              "icon": "fab fa-linkedin",
-              "link": "https://www.linkedin.com/in/rolandcroft/",
-              "title": "Linkedin"
-            },
-            {
-              "id": 3,
-              "icon": "fab fa-dribbble",
-              "link": "https://rolandcroft.github.io/",
-              "title": "Personal Website"
-            },
-            {
-              "id": 3,
-              "icon": "fab fa-github",
-              "link": "https://github.com/RolandCroft",
-              "title": "GitHub"
-            }
-          ]
-        },
+        
         {
           "id": 6,
           "name": "Yongzheng Xie",
@@ -746,35 +617,8 @@
             }
           ]
         },
-        {
-          "id": 3,
-          "name": "Anjitha Sreekumar",
-          "designation": "Research Engineer",
-          "images": [
-            {
-              "src": "../images/team/Anjitha.png"
-            }
-          ],
-          "socials": [
-            {
-              "id": 2,
-              "icon": "fab fa-twitter",
-              "link": "https://twitter.com/skanjitha",
-              "title": "Twitter"
-            }
-          ]
-        },
-        {
-          "id": 4,
-          "name": "Ashwinraj Giriraj",
-          "designation": "Research Engineer",
-          "images": [
-            {
-              "src": "../images/team/ashwinraj.jpg"
-            }
-          ],
-          "socials": []
-        },
+        
+        
         {
           "id": 5,
           "name": "Antony Nicholas Cameron",
@@ -1020,6 +864,102 @@
             }
           ],
           "socials": []
+        },
+        {
+          "id": 1,
+          "name": "Bushra Sabir",
+          "designation": "PhD",
+          "images": [
+            {
+              "src": "../images/team/busra.jpg"
+            }
+          ],
+          "socials": [
+            {
+              "id": 2,
+              "icon": "fab fa-twitter",
+              "link": "https://twitter.com/bushra_sabir",
+              "title": "Twitter"
+            },
+            {
+              "id": 4,
+              "icon": "fab si-googlescholar",
+              "link": "https://scholar.google.com/citations?user=FeX-_H8AAAAJ&hl=en",
+              "title": "Google Scholar"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Nesara Dissanayake",
+          "designation": "PhD",
+          "images": [
+            {
+              "src": "../images/team/nesara.png"
+            }
+          ],
+          "socials": [
+            {
+              "id": 2,
+              "icon": "fab fa-twitter",
+              "link": "https://twitter.com/nesara_d?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+              "title": "Twitter"
+            },
+            {
+              "id": 4,
+              "icon": "fab si-googlescholar",
+              "link": "https://scholar.google.com.au/citations?user=Vb1zvAQAAAAJ&hl=en",
+              "title": "Google Scholar"
+            },
+            {
+              "id": 4,
+              "icon": "fab fa-linkedin",
+              "link": "https://www.linkedin.com/in/nesaradissanayake",
+              "title": "Linkedin"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Roland Croft",
+          "designation": "PhD",
+          "images": [
+            {
+              "src": "../images/team/roland.jpg"
+            }
+          ],
+          "socials": [
+            {
+              "id": 2,
+              "icon": "fab fa-twitter",
+              "link": "https://twitter.com/CroftRoland",
+              "title": "Twitter"
+            },
+            {
+              "id": 4,
+              "icon": "fab si-googlescholar",
+              "link": "https://scholar.google.com/citations?user=R6gmQDcAAAAJ&hl=en",
+              "title": "Google Scholar"
+            },
+            {
+              "id": 4,
+              "icon": "fab fa-linkedin",
+              "link": "https://www.linkedin.com/in/rolandcroft/",
+              "title": "Linkedin"
+            },
+            {
+              "id": 3,
+              "icon": "fab fa-dribbble",
+              "link": "https://rolandcroft.github.io/",
+              "title": "Personal Website"
+            },
+            {
+              "id": 3,
+              "icon": "fab fa-github",
+              "link": "https://github.com/RolandCroft",
+              "title": "GitHub"
+            }
+          ]
         },
         {
           "id": "monica-bian",
@@ -1526,6 +1466,24 @@
           ]
         },
         {
+          "id": 3,
+          "name": "Anjitha Sreekumar",
+          "designation": "Research Engineer",
+          "images": [
+            {
+              "src": "../images/team/Anjitha.png"
+            }
+          ],
+          "socials": [
+            {
+              "id": 2,
+              "icon": "fab fa-twitter",
+              "link": "https://twitter.com/skanjitha",
+              "title": "Twitter"
+            }
+          ]
+        },
+        {
           "id": 13,
           "name": "Hussain Ahmad",
           "designation": "PhD",
@@ -1546,6 +1504,53 @@
               "icon": "fab fa-linkedin",
               "link": "https://www.linkedin.com/in/hussainahmad5/",
               "title": "Linkedin"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Ashwinraj Giriraj",
+          "designation": "Research Engineer",
+          "images": [
+            {
+              "src": "../images/team/ashwinraj.jpg"
+            }
+          ],
+          "socials": []
+        },
+        {
+          "id": 13,
+          "name": "Boyu Zhang",
+          "designation": "Post Doc",
+          "images": [
+            {
+              "src": "../images/team/boyu.jpg"
+            }
+          ],
+          "socials": [
+            {
+              "id": 4,
+              "icon": "fab si-googlescholar",
+              "link": "https://scholar.google.com/citations?&user=bpdpe1cAAAAJ&view_op=list_works&sortby=pubdate",
+              "title": "Google Scholar"
+            },
+            {
+              "id": 4,
+              "icon": "fab fa-linkedin",
+              "link": "https://www.linkedin.com/in/boyu-zhang-75094a60/",
+              "title": "Linkedin"
+            },
+            {
+              "id": 3,
+              "icon": "fab fa-dribbble",
+              "link": "https://abalon1210.github.io/",
+              "title": "Personal Website"
+            },
+            {
+              "id": 3,
+              "icon": "fab fa-github",
+              "link": "https://github.com/boyuZh",
+              "title": "GitHub"
             }
           ]
         }
