@@ -53,9 +53,9 @@ const LeadershipPage = ({ pageContext, location, data }) => {
                 <div id="assistants">
                     <ExecutiveTeamArea data={content["assistants"]} />
                 </div>
-                {/* <div id="projectstudents">
+                <div id="projectstudents">
                     <ExecutiveTeamArea data={content["projectstudents"]} />
-                </div> */}
+                </div>
                 <div id="collaborators">
                     <HeadTeamArea data={content["collaborators"]} />
                 </div>

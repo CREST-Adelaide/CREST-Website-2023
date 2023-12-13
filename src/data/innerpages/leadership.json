@@ -653,6 +653,17 @@
             }
           ],
           "socials": []
+        },
+        {
+          "id": 7,
+          "name": "Hong Phuc Pham",
+          "designation": "Software Engineer",
+          "images": [
+            {
+              "src": "../images/team/pham.jpg"
+            }
+          ],
+          "socials": []
         }
       ]
     },
@@ -665,49 +676,37 @@
       "items": [
         {
           "id": 1,
-          "name": "Shagun Dhingra",
-          "designation": "Research Engineer",
+          "name": "Jinyang Li",
+          "designation": "Research Project Student",
           "images": [
             {
-              "src": "../images/team/shagun.jpg"
+              "src": "../images/team/jinyang.jpg"
             }
           ],
           "socials": []
         },
         {
           "id": 2,
-          "name": "Trung Ky (Keith) Moc",
-          "designation": "Research Engineer",
+          "name": "Huanwei Xu",
+          "designation": "Research Project Student",
           "images": [
             {
-              "src": "../images/team/Keith.jpeg"
+              "src": "../images/team/huanwei.jpg"
             }
           ],
           "socials": [
-            {
-              "id": 4,
-              "icon": "fab fa-linkedin",
-              "link": "https://www.linkedin.com/in/trung-ky-keith-moc-48981164/?originalSubdomain=au",
-              "title": "Linkedin"
-            }
           ]
         },
         {
           "id": 3,
-          "name": "Anjitha Sreekumar",
-          "designation": "Research Engineer",
+          "name": "Ziyang Ye",
+          "designation": "Research Project Student",
           "images": [
             {
-              "src": "../images/team/Anjitha.png"
+              "src": "../images/team/Ye.jpg"
             }
           ],
           "socials": [
-            {
-              "id": 2,
-              "icon": "fab fa-twitter",
-              "link": "https://twitter.com/skanjitha",
-              "title": "Twitter"
-            }
           ]
         }
       ]
