@@ -3,6 +3,28 @@
   "pageType": "resources",
   "content": [
     {
+      "id": 20231215,
+      "year": "2023",
+      "images": [{ "src": "../images/guest-talk/guest-talk-unimelb-2023.jpeg" }],
+      "title": "Dec, 15th - CREST End-of-the-year gathering event",
+      "hosts": [
+        {
+          "id": 1,
+          "name": "CREST",
+          "link": "http://crest-centre.net"
+        }
+      ],
+      "location": "SA, Australia",
+      "description": "CREST End-of-the-year gathering event.",
+      "socials": [
+        {
+          "id": 1,
+          "title": "twitter",
+          "link": "https://twitter.com/crest_uofa/status/1713832300159652204"
+        }
+      ]
+    },
+    {
       "id": 20231016,
       "year": "2023",
       "images": [{ "src": "../images/guest-talk/guest-talk-unimelb-2023.jpeg" }],
