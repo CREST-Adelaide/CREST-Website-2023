@@ -2,6 +2,7 @@
   "title": "careers",
   "pageType": "innerpage",
   "content": [
+    
     {
       "id": "careers-listing-open",
       "section": "listing-section-open",
@@ -10,11 +11,18 @@
       },
       "items": [
         {
-          "id": "job-1",
-          "title": "Software Engineer-Faculty of Sciences, Engineering and Technology",
-          "type": "Contract/Temp",
-          "description": "$77,409 to $86,072 salary scale per annum plus an employer contribution of 17% superannuation applies. ",
-          "path": "https://www.seek.com.au/job/69394665?type=standout#sol=9a490861416a7b3d7536ffb7d4c34c63fa56c9d5"
+          "id": "job-4",
+          "title": "Research Associate (B) - School of Computer Science",
+          "type": "Full time",
+          "description": "(Level B) $107,276 – $126,894 per annum plus an employer contribution of 17% superannuation applies.",
+          "path": "careers.adelaide.edu.au/cw/en/job/513247/grantfunded-researcher-b-crest-1school-of-computer-science"
+        },
+        {
+          "id": "job-4",
+          "title": "Research Associate (B) - School of Computer Science",
+          "type": "Full time",
+          "description": "(Level B) $107,276 – 126,984 per annum plus an employer contribution of 17% superannuation applies.",
+          "path": "https://careers.adelaide.edu.au/cw/en/job/513248/grantfunded-researcher-b-crest-2-school-of-computer-science"
         }
       ]
     },
@@ -25,6 +33,13 @@
         "title": "Become a part of our big family to <span>explore more.</span>"
       },
       "items": [
+        {
+          "id": "job-1",
+          "title": "Software Engineer-Faculty of Sciences, Engineering and Technology",
+          "type": "Contract/Temp",
+          "description": "$77,409 to $86,072 salary scale per annum plus an employer contribution of 17% superannuation applies. ",
+          "path": "https://www.seek.com.au/job/69394665?type=standout#sol=9a490861416a7b3d7536ffb7d4c34c63fa56c9d5"
+        },
         {
           "id": "job-4",
           "title": "Research Associate (B) - School of Computer Science",
