@@ -22,13 +22,13 @@ const Logo = ({ className, variant, ...restProps }) => {
           width={160}
           height={48}
         />
-        <StaticImage
+        {/* <StaticImage
           src="../../assets/images/logo/adelaide.png"
           className="img-fluid static-img adelaide-logo"
           alt="Adelaide Uni logo"
           width={140}
           height={40}
-        />
+        /> */}
       </Link>
     </LogoWrapper>
   );
