@@ -39,13 +39,13 @@ const HomePage = ({ location, data }) => {
             recentNews: data.recentNews.nodes,
           }}
         /> */}
-        <BlogArea
+        {/* <BlogArea
           data={{
             ...content["blog-section"],
             featuredBlog: data.featuredBlogs.nodes[0],
             recentBlogs: data.recentBlogs.nodes,
           }}
-        />
+        /> */}
         <TwitterArea />
         <JoinUsArea data={content["join-us-section"]} />
       </main>
