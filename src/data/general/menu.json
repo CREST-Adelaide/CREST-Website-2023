@@ -70,16 +70,6 @@
       "id": "menu-5",
       "text": "Blogs",
       "link": "/blogs"
-    },
-    {
-      "id": "menu-6",
-      "text": "Team",
-      "link": "/team"
-    },
-    {
-      "id": "menu-7",
-      "text": "Join us",
-      "link": "/positions"
     }
   ]
 }
