@@ -33,12 +33,12 @@ const HomePage = ({ location, data }) => {
           data={content["our-works-section"]}
           projects={data.recentProjects.nodes}
         />
-        <NewsArea
+        {/* <NewsArea
           data={{
             ...content["news-section"],
             recentNews: data.recentNews.nodes,
           }}
-        />
+        /> */}
         <BlogArea
           data={{
             ...content["blog-section"],

@@ -45,11 +45,6 @@
       ]
     },
     {
-      "id": "menu-3",
-      "text": "News",
-      "link": "/latest-news"
-    },
-    {
       "id": "menu-4",
       "text": "Resources",
       "link": "#",
