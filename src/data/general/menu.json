@@ -10,7 +10,7 @@
     {
       "id": "menu-2",
       "text": "Research",
-      "link": "/research",
+      "link": "#",
       "megamenu": [
         {
           "title": "Clusters",
@@ -45,11 +45,6 @@
       ]
     },
     {
-      "id": "menu-3",
-      "text": "News",
-      "link": "/latest-news"
-    },
-    {
       "id": "menu-4",
       "text": "Resources",
       "link": "#",
@@ -65,21 +60,6 @@
           "link": "/resources/activities"
         }
       ]
-    },
-    {
-      "id": "menu-5",
-      "text": "Blogs",
-      "link": "/blogs"
-    },
-    {
-      "id": "menu-6",
-      "text": "Team",
-      "link": "/team"
-    },
-    {
-      "id": "menu-7",
-      "text": "Join us",
-      "link": "/positions"
     }
   ]
 }

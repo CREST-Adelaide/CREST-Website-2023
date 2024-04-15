@@ -62,7 +62,7 @@ const JoinUsArea = ({ data }) => {
                   </Anchor>
                 </h2>
               )}
-              {data?.buttons?.map(({ id, content, path, ...rest }) => (
+              {/* {data?.buttons?.map(({ id, content, path, ...rest }) => (
                 <Button
                   key={id}
                   path={path}
@@ -72,7 +72,7 @@ const JoinUsArea = ({ data }) => {
                 >
                   {content}
                 </Button>
-              ))}
+              ))} */}
             </ContactInfoBox>
           </Col>
           <Col lg={4}>

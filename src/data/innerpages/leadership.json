@@ -12,7 +12,7 @@
         {
           "id": 1,
           "name": "M. Ali Babar",
-          "designation": "Professor & Director CREST",
+          "designation": "Professor & Lead",
           "images": [
             {
               "src": "../images/team/ali.jpeg"
@@ -66,12 +66,6 @@
               "icon": "fab fa-linkedin",
               "link": "https://uk.linkedin.com/in/mingyu-guo-97236b1b",
               "title": "Linkedin"
-            },
-            {
-              "id": 3,
-              "icon": "fab fa-dribbble",
-              "link": "https://cs.adelaide.edu.au/~mingyu/",
-              "title": "Personal Website"
             }
           ]
         },
