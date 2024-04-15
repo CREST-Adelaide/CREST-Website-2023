@@ -3,30 +3,155 @@
   "pageType": "resources",
   "content": [
     {
+      "id": 2024041102,
+      "year": "2024",
+      "images": [{ "src": "../images/event/ALCSI-2024-ali-babar.jpeg" }],
+      "title": "Apr, 11th - ALCSI talk by Ali Babar",
+      "hosts": [
+        {
+          "id": 1,
+          "name": "University of Adelaide",
+          "link": "https://twitter.com/hashtag/UniversityofAdelaide?src=hashtag_click"
+        },
+        {
+          "id": 2,
+          "name": "CREST",
+          "link": "https://twitter.com/crest_centre"
+        }
+      ],
+      "location": "SA, Australia",
+      "description": "Our team leader, Prof Ali Babar, sharing his experience",
+      "socials": [
+        {
+          "id": 1,
+          "title": "twitter",
+          "link": "https://twitter.com/crest_centre/status/1778414911821152484"
+        }
+      ]
+    },
+    {
+      "id": 2024041101,
+      "year": "2024",
+      "images": [{ "src": "../images/event/ALCSI-2024-nguyen-tran.jpeg" }],
+      "title": "Apr, 11th - ALCSI talk by Nguyen Khoi Tran",
+      "hosts": [
+        {
+          "id": 1,
+          "name": "University of Adelaide",
+          "link": "https://twitter.com/hashtag/UniversityofAdelaide?src=hashtag_click"
+        },
+        {
+          "id": 2,
+          "name": "CREST",
+          "link": "https://twitter.com/crest_centre"
+        }
+      ],
+      "location": "SA, Australia",
+      "description": "In Australasian Lab for Cyber Security Ideas (ALCSI 2024). Dr. Nguyen Khoi Tran from our team, who will introduce our recent research on adopting blockchain for software supply chain metadata management. In this talk, we will present our work towards a reference architecture for software supply chain metadata management (SCM2). This architecture comprises a domain model and an architectural blueprint for SCM2 systems, constructed from the concepts and building blocks scattered across existing SSC (Software Supply Chain) security frameworks and standards.",
+      "socials": [
+        {
+          "id": 1,
+          "title": "twitter",
+          "link": "https://twitter.com/crest_centre/status/1778307342578446476"
+        }
+      ]
+    },
+    {
+      "id": 2024040802,
+      "year": "2024",
+      "images": [{ "src": "../images/event/CMS-industry-engagement-day-2024.jpeg" }],
+      "title": "Apr, 8th - CMS Industry Engagement Day",
+      "hosts": [
+        {
+          "id": 1,
+          "name": "University of Adelaide",
+          "link": "https://twitter.com/hashtag/UniversityofAdelaide?src=hashtag_click"
+        },
+        {
+          "id": 2,
+          "name": "CREST",
+          "link": "https://twitter.com/crest_centre"
+        }
+      ],
+      "location": "SA, Australia",
+      "description": "Excited to share that CMS Industry Engagement Day, hosted by the School of Computer and Mathematical Sciences, University of Adelaide, is underway! It offers academic staff a chance to delve into industry engagement activities, with school representatives and industry partners sharing their collaborative experiences. Today, our team leader, Prof Ali Babar, presents 'Industry Engagements - Kissing the Right Frog,' drawing from his extensive experience in industry collaboration and funding. A fantastic opportunity for learning and strategizing!",
+      "socials": [
+        {
+          "id": 1,
+          "title": "twitter",
+          "link": "https://twitter.com/crest_centre/status/1777232782135337030"
+        }
+      ]
+    },
+    {
+      "id": 2024040801,
+      "year": "2024",
+      "images": [{ "src": "../images/guest-talk/guest-talk-dhani-dharmaprani-2024.jpeg" }],
+      "title": "Apr, 8th - Guest talk by Dr. Dhani Dharmaprani",
+      "hosts": [
+        {
+          "id": 1,
+          "name": "CREST",
+          "link": "https://twitter.com/crest_centre"
+        }
+      ],
+      "location": "SA, Australia",
+      "description": "We were honored to host Dr. Dhani Dharmaprani for an insightful discussion on 'Cardiovascular Health with Digital Twin' at CREST.",
+      "socials": [
+        {
+          "id": 1,
+          "title": "twitter",
+          "link": "https://twitter.com/crest_centre/status/1777210731819319364"
+        }
+      ]
+    },
+    {
+      "id": 20240304,
+      "year": "2024",
+      "images": [{ "src": "../images/guest-talk/guest-talk-asif-gill-2024.jpeg" }],
+      "title": "Mar, 4th - Guest talk by Professor Asif Gill",
+      "hosts": [
+        {
+          "id": 1,
+          "name": "CREST",
+          "link": "https://twitter.com/crest_centre"
+        }
+      ],
+      "location": "SA, Australia",
+      "description": "CREST had the pleasure of hosting Professor Asif Gill for an insightful session on 'Adaptive and Secure Data Architecture for AI/GAI adoption in the public sector'.",
+      "socials": [
+        {
+          "id": 1,
+          "title": "twitter",
+          "link": "https://twitter.com/crest_centre/status/1764509810647826562"
+        }
+      ]
+    },
+    {
       "id": 20231215,
       "year": "2023",
-      "images": [{ "src": "../images/event/end-year-gathering.JPG" }],
+      "images": [{ "src": "../images/event/end-year-gathering-2023.JPG" }],
       "title": "Dec, 15th - CREST End-of-the-year gathering event",
       "hosts": [
         {
           "id": 1,
           "name": "CREST",
-          "link": "http://crest-centre.net"
+          "link": "https://twitter.com/crest_centre"
         }
       ],
       "location": "SA, Australia",
-      "description": "CREST End-of-the-year gathering event."
+      "description": "CREST End-of-the-year gathering event. We shared our outcomes of the year and celerated with foods and drinks!"
     },
     {
       "id": 20231016,
       "year": "2023",
       "images": [{ "src": "../images/guest-talk/guest-talk-unimelb-2023.jpeg" }],
-      "title": "Oct, 16th - Guest talk at University of Melbourne by Bach Le",
+      "title": "Oct, 16th - Guest talk by Bach Le from University of Melbourne",
       "hosts": [
         {
           "id": 1,
           "name": "CREST",
-          "link": "http://crest-centre.net"
+          "link": "https://twitter.com/crest_centre"
         }
       ],
       "location": "SA, Australia",
@@ -43,7 +168,7 @@
       "id": 20230704,
       "year": "2023",
       "images": [{ "src": "../images/phd-presentation/presentation-phd-phmousavi-2023.jpeg" }],
-      "title": "July, 4th - Our PhD student SZ Mousavi is presenting our review on detecting misuses of security APIs at CSCRC symposium",
+      "title": "Jul, 4th - Our PhD student SZ Mousavi is presenting our review on 'Detecting misuses of security APIs at CSCRC symposium'",
       "hosts": [
         {
           "id": 1,
@@ -65,7 +190,7 @@
       "id": 20230517,
       "year": "2023",
       "images": [{ "src": "../images/conference/CREST-at-ICSE2023.jpeg" }],
-      "title": "July, 4th - CREST team at ICSE2023",
+      "title": "May, 17th - CREST team at ICSE2023",
       "hosts": [
         {
           "id": 1,
@@ -74,7 +199,7 @@
         }
       ],
       "location": "SA, Australia",
-      "description": "If you're interested in SoftwareSecurity, VulnerabilityAnalytics, DataQuality for SE, let's talk to us and explore potential collaboration opportunities.",
+      "description": "If you're interested in Software Security, Vulnerability Analytics, Data Quality for SE, let's talk to us and explore potential collaboration opportunities.",
       "socials": [
         {
           "id": 1,
@@ -84,67 +209,24 @@
       ]
     },
     {
-      "id": 4,
-      "year": "2022",
-      "images": [{ "src": "../images/workshops/workshop-image-01.jpg" }],
-      "title": "May, 10th - CREST and SCS lab (Sydney) Workshop to share ideas and discuss potential collaboration",
+      "id": 20230510,
+      "year": "2023",
+      "images": [{ "src": "../images/guest-talk/guest-talk-amin-beheshti-2024.jpeg" }],
+      "title": "May, 10th - Guest talk by Prof. Amin Beheshti",
       "hosts": [
         {
           "id": 1,
           "name": "CREST",
-          "link": "http://crest-centre.net"
+          "link": "https://twitter.com/crest_centre"
         }
       ],
       "location": "SA, Australia",
-      "description": "Workshop description for the workshop at May, 10th - CREST and SCS lab (Sydney) Workshop to share ideas and discuss potential collaboration, this is a really informative workshop which have atrracted a large amount of participants.",
+      "description": "CREST was delighted to host prof Amin Beheshti from Macquarie University; heard insightful talk on generative AI, it's applications to real world projects of his team. thx 4 visiting & sharing fascinating ideas; favourite one is data-driven story telling & graph summarization",
       "socials": [
         {
           "id": 1,
           "title": "twitter",
-          "link": "http://twitter.com"
-        },
-        {
-          "id": 2,
-          "title": "linkedin",
-          "link": "http://linkedin.com"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "year": "2022",
-      "images": [{ "src": "../images/workshops/workshop-image-04.jpg" }],
-      "location": "SA, Australia",
-      "title": "May, 6th - The Art and Practice of Data Science Pipelines: A Comprehensive Study of Data Science Pipelines In Theory, In-The-Small, and In-The-Large.",
-      "description": "Workshop description..."
-    },
-    {
-      "id": 2,
-      "year": "2022",
-      "images": [{ "src": "../images/workshops/workshop-image-03.jpg" }],
-      "location": "SA, Australia",
-      "title": "Apr, 1st - Edge Intelligence Challenges in Next-Generation Network",
-      "description": "Workshop description..."
-    },
-    {
-      "id": 1,
-      "year": "2022",
-      "images": [],
-      "hosts": [
-        {
-          "id": 1,
-          "name": "CREST",
-          "link": "http://crest-centre.net"
-        }
-      ],
-      "location": "SA, Australia",
-      "title": "Feb, 9th - Effective time management and combating procastination workshop",
-      "description": "Embark on a transformative journey towards enhanced productivity and personal growth with our immersive 'Effective Time Management and Combating Procrastination Workshop.' In an era where time is both a precious resource and a constant challenge, this workshop is meticulously designed to equip you with the essential skills and mindset needed to seize control of your schedule and banish procrastination. Through a dynamic blend of expert guidance, interactive exercises, and actionable strategies, you'll unlock the secrets to prioritize tasks, optimize workflow, and achieve your goals with unprecedented efficiency. Join us for an empowering experience that promises to revolutionize the way you approach time, setting the stage for a more accomplished and fulfilling life.",
-      "socials": [
-        {
-          "id": 1,
-          "title": "twitter",
-          "link": "http://twitter.com"
+          "link": "https://twitter.com/alibabar/status/1656216690563366912"
         }
       ]
     }
