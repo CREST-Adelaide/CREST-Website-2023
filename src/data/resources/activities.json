@@ -20,7 +20,7 @@
         }
       ],
       "location": "SA, Australia",
-      "description": "Our team leader, Prof Ali Babar, sharing his experience",
+      "description": "Our team leader, Prof Ali Babar, sharing his experience at ALCSI2024",
       "socials": [
         {
           "id": 1,
@@ -205,6 +205,33 @@
           "id": 1,
           "title": "twitter",
           "link": "https://twitter.com/crest_uofa/status/1658714651696451585"
+        }
+      ]
+    },
+    {
+      "id": 20230511,
+      "year": "2023",
+      "images": [{ "src": "../images/guest-talk/guest-talk-unicurtin-2023.jpeg" }],
+      "title": "May, 11th - Guest talk by Prof Ali at Curtin University",
+      "hosts": [
+        {
+          "id": 1,
+          "name": "CREST",
+          "link": "https://twitter.com/crest_centre"
+        },
+        {
+          "id": 2,
+          "name": "Curtin University",
+          "link": "https://x.com/CurtinUni"
+        }
+      ],
+      "location": "SA, Australia",
+      "description": "Prof Ali Babar visiting Curtin University and giving talk on 'quality if data'.",
+      "socials": [
+        {
+          "id": 1,
+          "title": "twitter",
+          "link": "https://x.com/alibabar/status/1656591714864484352"
         }
       ]
     },
